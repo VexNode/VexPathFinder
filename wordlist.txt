@@ -1,0 +1,14 @@
+admin
+login
+config.php
+.env
+.git
+backup
+db.php
+phpmyadmin
+shell.php
+administrator
+api/v1
+uploads
+server-status
+.htaccess
